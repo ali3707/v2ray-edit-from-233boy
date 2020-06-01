@@ -1,0 +1,5 @@
+version: 2.0
+jobs:
+  build:
+    docker:
+      - image: 650921884/freedomtosurfv4232
